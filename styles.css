@@ -228,9 +228,9 @@ nav {
 }
 
 .links {
-    /* height: 0;
-  overflow: hidden;
-  transition: var(--transition); */
+    height: 0;
+    overflow: hidden;
+    transition: var(--transition);
 }
 
 .show-links {
